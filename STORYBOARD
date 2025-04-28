@@ -1,0 +1,57 @@
+# Penjelasan Storyboard "F Sneakers"
+1. iPhone 16 Pro Max - 1: Welcome Screen
+Halaman pertama saat pengguna membuka aplikasi.
+Menampilkan:
+Logo F Sneakers di tengah.
+Tombol besar Login (warna ungu) dan Sign Up (warna abu-abu muda).
+Link kecil "Continue as guest" di bawah untuk pengguna yang tidak ingin login langsung.
+Fungsi: Mengarahkan pengguna ke proses login, daftar akun, atau eksplorasi sebagai tamu.
+2. iPhone 16 Pro Max - 2: Login Screen
+Halaman login untuk pengguna yang ingin masuk.
+Menampilkan:
+Logo F Sneakers.
+Field input untuk username dan password.
+Opsi login cepat dengan tombol Facebook, Google, dan Apple.
+Tombol Login berwarna ungu.
+Link kecil untuk "Remember me", "Forgot Password?", dan Login bagi yang sudah punya akun.
+Fungsi: Memudahkan pengguna masuk dengan akun mereka atau dengan media sosial.
+3. iPhone 16 Pro Max - 3: Home / Product List Screen
+Halaman utama setelah login atau masuk sebagai tamu.
+Menampilkan:
+Bar pencarian di atas.
+Hamburger menu di kiri untuk navigasi lainnya.
+Grid/list produk sneakers lengkap dengan gambar, nama produk, dan harga.
+Contoh produk:
+Sepatu Puma Rp 599.999
+Sepatu Nike Jordan Rp 499.999
+Sepatu Converse Rp 799.999
+Sepatu Adidas Rp 399.999
+Fungsi: Memudahkan pengguna memilih sneakers yang ingin mereka beli.
+4. iPhone 16 Pro Max - 4: Product Detail Screen
+Detail produk saat pengguna memilih salah satu sneakers.
+Menampilkan:
+Gambar produk besar.
+Nama produk (Sepatu Puma White 100% BNIP).
+Deskripsi lengkap (kondisi 100% baru, ukuran 39–44).
+Harga produk Rp 599.999.
+Tombol Check Out berwarna ungu.
+Fungsi: Memberikan informasi rinci tentang produk dan opsi untuk langsung checkout.
+5. iPhone 16 Pro Max - 5: Payment Method Screen
+Halaman metode pembayaran setelah pengguna klik checkout.
+Menampilkan:
+Gambar produk.
+Harga produk.
+Opsi metode pembayaran:
+TRANSFER BANK (ungu muda)
+COD (ungu)
+BAYAR (biru)
+Fungsi: Memberikan pilihan metode pembayaran sesuai preferensi pengguna.
+
+# alur storyboard
+Welcome Screen -> Login Screen -> Home/Product List -> Product Detail -> Payment Method
+
+# Komentar tambahan:
+Desain clean dan fokus pada fungsionalitas.
+Warna dominan: Ungu dan Biru, memberikan nuansa modern dan premium.
+Navigasi intuitif untuk pengguna baru maupun yang sudah biasa.
+Menargetkan pengguna yang mengutamakan kemudahan berbelanja sneakers online.
